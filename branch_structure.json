@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "upwork/gourav-turka"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "upwork/gourav-turka": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "upwork/gourav-turka"
+  ]
+}
